@@ -3305,7 +3305,7 @@ $(window).on("load", function(){
                         name:'القروض المستلمة',
                         type:'bar',
                         itemStyle: {normal: {color:'rgba(22,211,154,1)', label:{show:true,textStyle:{color:'#007905'}}}},
-                        data:[<?php echo $ball1loan;?>,<?php echo $ball2loan;?>,<?php echo $ball3loan;?>,<?php echo $ball4loan;?>,<?php echo $ball5loan;?>,<?php echo $ball6loan;?>,<?php echo $ball7loan;?>,<?php echo $ball8loan;?>,<?php echo $ball9loan;?>,<?php echo $ball10loan;?>,<?php echo $ball11loan;?>,<?php echo $ball12loan;?>]
+                        data:[<?php echo $obj->ball1loan;?>,<?php echo $obj->ball2loan;?>,<?php echo $obj->ball3loan;?>,<?php echo $obj->ball4loan;?>,<?php echo $obj->ball5loan;?>,<?php echo $obj->ball6loan;?>,<?php echo $obj->ball7loan;?>,<?php echo $obj->ball8loan;?>,<?php echo $obj->ball9loan;?>,<?php echo $obj->ball10loan;?>,<?php echo $obj->ball11loan;?>,<?php echo $obj->ball12loan;?>]
                     },
                     {
                         name:'الفلل المستلمة',
