@@ -59,7 +59,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://127.0.0.1:800/api',
+         url: 'http://localhost:8888/boilerplate/public/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -82,7 +82,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://127.0.0.1:800/api',
+         url: 'http://localhost:8888/boilerplate/public/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -106,7 +106,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://127.0.0.1:800/api',
+         url: 'http://localhost:8888/boilerplate/public/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -130,7 +130,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://127.0.0.1:800/api',
+         url: 'http://localhost:8888/boilerplate/public/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -154,7 +154,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://127.0.0.1:800/api',
+         url: 'http://localhost:8888/boilerplate/public/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -178,7 +178,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://127.0.0.1:800/api',
+         url: 'http://localhost:8888/boilerplate/public/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -202,7 +202,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://127.0.0.1:800/api',
+         url: 'http://localhost:8888/boilerplate/public/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -226,7 +226,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://127.0.0.1:800/api',
+         url: 'http://localhost:8888/boilerplate/public/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -250,7 +250,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://127.0.0.1:800/api',
+         url: 'http://localhost:8888/boilerplate/public/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -274,7 +274,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://127.0.0.1:800/api',
+         url: 'http://localhost:8888/boilerplate/public/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -297,7 +297,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://127.0.0.1:800/api',
+         url: 'http://localhost:8888/boilerplate/public/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -321,7 +321,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://127.0.0.1:800/api',
+         url: 'http://localhost:8888/boilerplate/public/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -354,17 +354,23 @@
 
             }
         };
-        xmlhttp.open("GET", "http://127.0.0.1:800/api", true);
+        xmlhttp.open("GET", "http://localhost:8888/boilerplate/public/api", true);
         xmlhttp.send();
     </script>
 -->
     <?php
-        $json = file_get_contents('http://127.0.0.1:800/api');
+        $json = file_get_contents('http://localhost:8888/boilerplate/public/api');
         $obj = json_decode($json);
     ?>
   </head>
   <body data-open="click" data-menu="vertical-menu" data-col="2-columns" class="vertical-layout vertical-menu 2-columns  fixed-navbar">
-
+<script src="../../../assets/js/jquery.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+    <script type="text/javascript">
+jQuery(document).ready(function(){
+jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefault: "#000000",background: "#eeeeee",selected: 40,hover: 20,stroke: "#d4d4d4"},regions: {'SA-01': {id: "SA-01",'id_no_spaces': "SA-01",title: "Ar Riyāḑ",fill: "rgba(255,227,202,1)",tooltip: "الرياض",popover: "<?php echo "%0"; ?>الاراضي :  <?php echo "%0"; ?>البيع على الخارطه :  <?php echo "%0"; ?> الفلل: "},'SA-02': {id: "SA-02",'id_no_spaces': "SA-02",title: "Makkah",fill: "rgba(255,243,218,1)",tooltip: "مكة المكرمة",popover: "<?php echo "%0"; ?>الاراضي :  <?php echo "%0"; ?>البيع على الخارطه :  <?php echo "%0"; ?> الفلل: "},'SA-03': {id: "SA-03",'id_no_spaces': "SA-03",title: "Al Madīnah",fill: "rgba(235,237,195,1)",tooltip: "المدينه المنوره",popover: "<?php echo "%0"; ?>الاراضي :  <?php echo "%0"; ?>البيع على الخارطه :  <?php echo "%0"; ?> الفلل: "},'SA-04': {id: "SA-04",'id_no_spaces': "SA-04",title: "Ash Sharqīyah",fill: "rgba(252,212,199,1)",tooltip: "الشرقيه ",popover: "<?php echo "%0"; ?>الاراضي :  <?php echo "%0"; ?>البيع على الخارطه :  <?php echo "%0"; ?> الفلل: "},'SA-05': {id: "SA-05",'id_no_spaces': "SA-05",title: "Al Qaşīm",fill: "rgba(252,212,199,1)",tooltip: " القصيم",popover: "<?php echo "%0"; ?>الاراضي :  <?php echo "%0"; ?>البيع على الخارطه :  <?php echo "%0"; ?> الفلل: "},'SA-06': {id: "SA-06",'id_no_spaces': "SA-06",title: "Ḩā'il",fill: "rgba(255,243,218,1)",tooltip: " حائل",popover: "<?php echo "%0"; ?>الاراضي :  <?php echo "%0"; ?>البيع على الخارطه :  <?php echo "%0"; ?> الفلل: "},'SA-07': {id: "SA-07",'id_no_spaces': "SA-07",title: "Tabūk",fill: "rgba(252,212,199,1)",tooltip: "تبوك ",popover: "<?php echo "%0"; ?>الاراضي :  <?php echo "%0"; ?>البيع على الخارطه :  <?php echo "%0"; ?> الفلل: "},'SA-08': {id: "SA-08",'id_no_spaces': "SA-08",title: "Al Ḩudūd ash Shamālīyah",fill: "rgba(235,237,195,1)",tooltip: "الحدود الشماليه",popover: "<?php echo "%0"; ?>الاراضي :  <?php echo "%0"; ?>البيع على الخارطه :  <?php echo "%0"; ?> الفلل: "},'SA-12': {id: "SA-12",'id_no_spaces': "SA-12",title: "Al Jawf",fill: "rgba(255,227,202,1)",tooltip: " الجوف",popover: "<?php echo "%0"; ?>الاراضي :  <?php echo "%0"; ?>البيع على الخارطه :  <?php echo "%0"; ?> الفلل: "},'SA-14': {id: "SA-14",'id_no_spaces': "SA-14",title: "'Asir",fill: "rgba(235,237,195,1)",tooltip: "عسير ",popover: "<?php echo "%0"; ?>الاراضي :  <?php echo "%0"; ?>البيع على الخارطه :  <?php echo "%0"; ?> الفلل: "},'SA-10': {id: "SA-10",'id_no_spaces': "SA-10",title: "Najrān",fill: "rgba(255,243,218,1)",tooltip: " نجران",popover: "<?php echo "%0"; ?>الاراضي :  <?php echo "%0"; ?>البيع على الخارطه :  <?php echo "%0"; ?> الفلل: "},'SA-11': {id: "SA-11",'id_no_spaces': "SA-11",title: "Al Bāḩah",fill: "rgba(255,227,202,1)",tooltip: " الباحه",popover: "<?php echo "%0"; ?>الاراضي :  <?php echo "%0"; ?>البيع على الخارطه :  <?php echo "%0"; ?> الفلل: "},'SA-09': {id: "SA-09",'id_no_spaces': "SA-09",title: "Jīzān",fill: "rgba(255,227,202,1)",tooltip: " جازان",popover: "<?php echo "%0"; ?>الاراضي :  <?php echo "%0"; ?>البيع على الخارطه :  <?php echo "%0"; ?> الفلل: "}},viewBox: [0,0,730,600],zoom: {on: true,limit: [0,10],delta: 1.2,buttons: {on: true,location: "right"},mousewheel: false},gauge: {on: false,labels: {low: "low",high: "high"},colors: {lowRGB: {r: 85,g: 0,b: 0,a: 1},highRGB: {r: 238,g: 0,b: 0,a: 1},low: "#550000",high: "#ee0000",diffRGB: {r: 153,g: 0,b: 0,a: 0}},min: 0,max: false},source: "../../../app-assets/images/svg/saudi-arabia.svg",title: "Saudi-arabia",responsive: true});
+}); 
+</script>
      <!-- Modal -->
   <div class="modal fade" id="myModal1" role="dialog">
     <div class="modal-dialog">
@@ -2495,7 +2501,7 @@
                 </div>
             </div>
             <div class="card-body collapse in">
-            <div id="mapsvg" width="100%" height="500px"></div>
+            <div id="mapsvgg" width="100%" height="500px"></div>
            
 
             </div>
@@ -3703,11 +3709,7 @@ $(window).on("load", function(){
     
     <link href="../../../assets/css/mapsvg.css" rel="stylesheet">
 
-<script type="text/javascript">
-jQuery(document).ready(function(){
-jQuery("#mapsvg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefault: "#000000",background: "#eeeeee",selected: 40,hover: 20,stroke: "#d4d4d4"},regions: {'SA-01': {id: "SA-01",'id_no_spaces': "SA-01",title: "Ar Riyāḑ",fill: "rgba(255,227,202,1)",tooltip: "الرياض",popover: "الفلل: 85٪\nالأراضي: 20٪\nالبيع علي الخارطة: 15٪"},'SA-02': {id: "SA-02",'id_no_spaces': "SA-02",title: "Makkah",fill: "rgba(255,243,218,1)",tooltip: "مكة المكرمة",popover: ": ٨٥٪ الاراضي: ٢٠٪ البيع على الخارطه: ٢٠٪الفلل"},'SA-03': {id: "SA-03",'id_no_spaces': "SA-03",title: "Al Madīnah",fill: "rgba(235,237,195,1)",tooltip: "المدينه المنوره",popover: ": ٨٥٪ الاراضي: ٢٠٪ البيع على الخارطه: ٢٠٪الفلل"},'SA-04': {id: "SA-04",'id_no_spaces': "SA-04",title: "Ash Sharqīyah",fill: "rgba(252,212,199,1)",tooltip: "الشرقيه ",popover: ": ٨٥٪ الاراضي: ٢٠٪ البيع على الخارطه: ٢٠٪الفلل"},'SA-05': {id: "SA-05",'id_no_spaces': "SA-05",title: "Al Qaşīm",fill: "rgba(252,212,199,1)",tooltip: " القصيم",popover: ": ٨٥٪ الاراضي: ٢٠٪ البيع على الخارطه: ٢٠٪الفلل"},'SA-06': {id: "SA-06",'id_no_spaces': "SA-06",title: "Ḩā'il",fill: "rgba(255,243,218,1)",tooltip: " حائل",popover: ": ٨٥٪ الاراضي: ٢٠٪ البيع على الخارطه: ٢٠٪الفلل"},'SA-07': {id: "SA-07",'id_no_spaces': "SA-07",title: "Tabūk",fill: "rgba(252,212,199,1)",tooltip: "تبوك ",popover: ": ٨٥٪ الاراضي: ٢٠٪ البيع على الخارطه: ٢٠٪الفلل"},'SA-08': {id: "SA-08",'id_no_spaces': "SA-08",title: "Al Ḩudūd ash Shamālīyah",fill: "rgba(235,237,195,1)",tooltip: "الحدود الشماليه",popover: ": ٨٥٪ الاراضي: ٢٠٪ البيع على الخارطه: ٢٠٪الفلل"},'SA-12': {id: "SA-12",'id_no_spaces': "SA-12",title: "Al Jawf",fill: "rgba(255,227,202,1)",tooltip: " الجوف",popover: ": ٨٥٪ الاراضي: ٢٠٪ البيع على الخارطه: ٢٠٪الفلل"},'SA-14': {id: "SA-14",'id_no_spaces': "SA-14",title: "'Asir",fill: "rgba(235,237,195,1)",tooltip: "عسير ",popover: ": ٨٥٪ الاراضي: ٢٠٪ البيع على الخارطه: ٢٠٪الفلل"},'SA-10': {id: "SA-10",'id_no_spaces': "SA-10",title: "Najrān",fill: "rgba(255,243,218,1)",tooltip: " نجران",popover: ": ٨٥٪ الاراضي: ٢٠٪ البيع على الخارطه: ٢٠٪الفلل"},'SA-11': {id: "SA-11",'id_no_spaces': "SA-11",title: "Al Bāḩah",fill: "rgba(255,227,202,1)",tooltip: " الباحه",popover: ": ٨٥٪ الاراضي: ٢٠٪ البيع على الخارطه: ٢٠٪الفلل"},'SA-09': {id: "SA-09",'id_no_spaces': "SA-09",title: "Jīzān",fill: "rgba(255,227,202,1)",tooltip: " جازان",popover: ": ٨٥٪ الاراضي: ٢٠٪ البيع على الخارطه: ٢٠٪الفلل"}},viewBox: [0,0,730,600],zoom: {on: true,limit: [0,10],delta: 1.2,buttons: {on: true,location: "right"},mousewheel: false},gauge: {on: false,labels: {low: "low",high: "high"},colors: {lowRGB: {r: 85,g: 0,b: 0,a: 1},highRGB: {r: 238,g: 0,b: 0,a: 1},low: "#550000",high: "#ee0000",diffRGB: {r: 153,g: 0,b: 0,a: 0}},min: 0,max: false},source: "images/saudi-arabia.svg",title: "Saudi-arabia",responsive: true});
-});
-</script>
+
 
 
     <!-- END PAGE VENDOR JS-->

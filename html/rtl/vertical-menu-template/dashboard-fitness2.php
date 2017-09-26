@@ -59,7 +59,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://localhost:8888/boilerplate/public/api',
+         url: 'http://127.0.0.1:800/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -82,7 +82,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://localhost:8888/boilerplate/public/api',
+         url: 'http://127.0.0.1:800/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -106,7 +106,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://localhost:8888/boilerplate/public/api',
+         url: 'http://127.0.0.1:800/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -130,7 +130,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://localhost:8888/boilerplate/public/api',
+         url: 'http://127.0.0.1:800/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -154,7 +154,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://localhost:8888/boilerplate/public/api',
+         url: 'http://127.0.0.1:800/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -178,7 +178,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://localhost:8888/boilerplate/public/api',
+         url: 'http://127.0.0.1:800/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -202,7 +202,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://localhost:8888/boilerplate/public/api',
+         url: 'http://127.0.0.1:800/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -226,7 +226,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://localhost:8888/boilerplate/public/api',
+         url: 'http://127.0.0.1:800/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -250,7 +250,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://localhost:8888/boilerplate/public/api',
+         url: 'http://127.0.0.1:800/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -274,7 +274,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://localhost:8888/boilerplate/public/api',
+         url: 'http://127.0.0.1:800/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -297,7 +297,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://localhost:8888/boilerplate/public/api',
+         url: 'http://127.0.0.1:800/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -321,7 +321,7 @@
        $.ajax({
 
          type: "GET",
-         url: 'http://localhost:8888/boilerplate/public/api',
+         url: 'http://127.0.0.1:800/api',
 //         data: "id=" + id, // appears as $_GET['id'] @ your backend side
          success: function(data) {
                // data is ur summary
@@ -354,12 +354,12 @@
 
             }
         };
-        xmlhttp.open("GET", "http://localhost:8888/boilerplate/public/api", true);
+        xmlhttp.open("GET", "http://127.0.0.1:800/api", true);
         xmlhttp.send();
     </script>
 -->
     <?php
-        $json = file_get_contents('http://localhost:8888/boilerplate/public/api');
+        $json = file_get_contents('http://127.0.0.1:800/api');
         $obj = json_decode($json);
     ?>
   </head>
