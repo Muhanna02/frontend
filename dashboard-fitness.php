@@ -8,49 +8,49 @@
     <meta name="keywords" content="admin template, stack admin template, dashboard template, flat admin template, responsive admin template, web app">
     <meta name="author" content="PIXINVENT">
     <title>نظام متابعة برنامج سكني 280 ألف منتج</title>
-    <link rel="apple-touch-icon" href="../../../app-assets/images/ico/apple-icon-120.png">
-    <link rel="shortcut icon" type="image/x-icon" href="../../../app-assets/images/ico/favicon.ico">
+    <link rel="apple-touch-icon" href="app-assets/images/ico/apple-icon-120.png">
+    <link rel="shortcut icon" type="image/x-icon" href="app-assets/images/ico/favicon.ico">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i%7COpen+Sans:300,300i,400,400i,600,600i,700,700i" rel="stylesheet">
     <!-- BEGIN VENDOR CSS-->
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/css-rtl/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/fonts/feather/style.min.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/fonts/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/fonts/flag-icon-css/css/flag-icon.min.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/vendors/css/extensions/pace.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/vendors/css/forms/icheck/icheck.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/vendors/css/forms/icheck/custom.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/vendors/css/charts/morris.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/vendors/css/extensions/unslider.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/vendors/css/weather-icons/climacons.min.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/vendors/css/calendars/fullcalendar.min.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/css-rtl/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/fonts/feather/style.min.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/fonts/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/fonts/flag-icon-css/css/flag-icon.min.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/vendors/css/extensions/pace.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/vendors/css/forms/icheck/icheck.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/vendors/css/forms/icheck/custom.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/vendors/css/charts/morris.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/vendors/css/extensions/unslider.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/vendors/css/weather-icons/climacons.min.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/vendors/css/calendars/fullcalendar.min.css">
     <!-- END VENDOR CSS-->
     <!-- BEGIN STACK CSS-->
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/css-rtl/bootstrap-extended.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/css-rtl/app.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/css-rtl/colors.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/css-rtl/custom-rtl.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/css-rtl/plugins/calendars/fullcalendar.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/css-rtl/bootstrap-extended.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/css-rtl/app.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/css-rtl/colors.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/css-rtl/custom-rtl.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/css-rtl/plugins/calendars/fullcalendar.css">
     <!-- END STACK CSS-->
     <!-- BEGIN Page Level CSS-->
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/css-rtl/core/menu/menu-types/vertical-menu.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/css-rtl/core/menu/menu-types/vertical-overlay-menu.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/css-rtl/core/colors/palette-gradient.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/css-rtl/core/colors/palette-climacon.css">
-    <link rel="stylesheet" type="text/css" href=" ../../../app-assets/css-rtl/core/colors/palette-gradient.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/fonts/simple-line-icons/style.min.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/fonts/meteocons/style.min.css">
-    <link rel="stylesheet" type="text/css" href="../../../app-assets/css-rtl/pages/users.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/css-rtl/core/menu/menu-types/vertical-menu.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/css-rtl/core/menu/menu-types/vertical-overlay-menu.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/css-rtl/core/colors/palette-gradient.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/css-rtl/core/colors/palette-climacon.css">
+    <link rel="stylesheet" type="text/css" href=" app-assets/css-rtl/core/colors/palette-gradient.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/fonts/simple-line-icons/style.min.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/fonts/meteocons/style.min.css">
+    <link rel="stylesheet" type="text/css" href="app-assets/css-rtl/pages/users.css">
     <!-- END Page Level CSS-->
     <!-- BEGIN Custom CSS NAD JS-->
-    <link rel="stylesheet" type="text/css" href="../../../assets/css/style-rtl.css">
-        <link rel="stylesheet" type="text/css" href="../../../app-assets/css-rtl/pages/project.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style-rtl.css">
+        <link rel="stylesheet" type="text/css" href="app-assets/css-rtl/pages/project.css">
 
 
-    <link rel="stylesheet" type="text/css" href="../../../assets/css/mapsvg.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/mapsvg.css">
 
-    <script src="../../../assets/js/jquery.js"></script>
-    <script src="../../../assets/js/jquery.mousewheel.min.js"></script>
-    <script src="../../../assets/js/mapsvg.min.js"></script>
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/jquery.mousewheel.min.js"></script>
+    <script src="assets/js/mapsvg.min.js"></script>
     <!-- END Custom CSS AND JS-->
      <script>
 
@@ -364,11 +364,11 @@
     ?>
   </head>
   <body data-open="click" data-menu="vertical-menu" data-col="2-columns" class="vertical-layout vertical-menu 2-columns  fixed-navbar">
-<script src="../../../assets/js/jquery.js"></script>
+<script src="assets/js/jquery.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
     <script type="text/javascript">
 jQuery(document).ready(function(){
-jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefault: "#000000",background: "#eeeeee",selected: 40,hover: 20,stroke: "#d4d4d4"},regions: {'SA-01': {id: "SA-01",'id_no_spaces': "SA-01",title: "Ar Riyāḑ",fill: "rgba(255,227,202,1)",tooltip: "الرياض",popover: "<?php echo $obj->villas_city1; ?>الاراضي :  <?php echo $obj->mapsale_city1; ?>البيع على الخارطه :  <?php echo $obj->landing_city1; ?> الفلل: "},'SA-02': {id: "SA-02",'id_no_spaces': "SA-02",title: "Makkah",fill: "rgba(255,243,218,1)",tooltip: "مكة المكرمة",popover: "<?php echo $obj->villas_city2; ?>الاراضي :  <?php echo $obj->mapsale_city2; ?>البيع على الخارطه :  <?php echo $obj->landing_city2; ?> الفلل: "},'SA-03': {id: "SA-03",'id_no_spaces': "SA-03",title: "Al Madīnah",fill: "rgba(235,237,195,1)",tooltip: "المدينه المنوره",popover: "<?php echo $obj->villas_city3; ?>الاراضي :  <?php echo $obj->mapsale_city3; ?>البيع على الخارطه :  <?php echo $obj->landing_city3; ?> الفلل: "},'SA-04': {id: "SA-04",'id_no_spaces': "SA-04",title: "Ash Sharqīyah",fill: "rgba(252,212,199,1)",tooltip: "الشرقيه ",popover: "<?php echo $obj->villas_city4; ?>الاراضي :  <?php echo $obj->mapsale_city4; ?>البيع على الخارطه :  <?php echo $obj->landing_city4; ?> الفلل: "},'SA-05': {id: "SA-05",'id_no_spaces': "SA-05",title: "Al Qaşīm",fill: "rgba(252,212,199,1)",tooltip: " القصيم",popover: "<?php echo $obj->villas_city5; ?>الاراضي :  <?php echo $obj->mapsale_city5; ?>البيع على الخارطه :  <?php echo $obj->landing_city5; ?> الفلل: "},'SA-06': {id: "SA-06",'id_no_spaces': "SA-06",title: "Ḩā'il",fill: "rgba(255,243,218,1)",tooltip: " حائل",popover: "<?php echo $obj->villas_city6; ?>الاراضي :  <?php echo $obj->mapsale_city6; ?>البيع على الخارطه :  <?php echo $obj->landing_city6; ?> الفلل: "},'SA-07': {id: "SA-07",'id_no_spaces': "SA-07",title: "Tabūk",fill: "rgba(252,212,199,1)",tooltip: "تبوك ",popover: "<?php echo $obj->villas_city7; ?>الاراضي :  <?php echo $obj->mapsale_city7; ?>البيع على الخارطه :  <?php echo $obj->landing_city7; ?> الفلل: "},'SA-08': {id: "SA-08",'id_no_spaces': "SA-08",title: "Al Ḩudūd ash Shamālīyah",fill: "rgba(235,237,195,1)",tooltip: "الحدود الشماليه",popover: "<?php echo $obj->villas_city8; ?>الاراضي :  <?php echo $obj->mapsale_city8; ?>البيع على الخارطه :  <?php echo $obj->landing_city8; ?> الفلل: "},'SA-12': {id: "SA-12",'id_no_spaces': "SA-12",title: "Al Jawf",fill: "rgba(255,227,202,1)",tooltip: " الجوف",popover: "<?php echo $obj->villas_city9; ?>الاراضي :  <?php echo $obj->mapsale_city9; ?>البيع على الخارطه :  <?php echo $obj->landing_city9; ?> الفلل: "},'SA-14': {id: "SA-14",'id_no_spaces': "SA-14",title: "'Asir",fill: "rgba(235,237,195,1)",tooltip: "عسير ",popover: "<?php echo $obj->villas_city10; ?>الاراضي :  <?php echo $obj->mapsale_city10; ?>البيع على الخارطه :  <?php echo $obj->landing_city10; ?> الفلل: "},'SA-10': {id: "SA-10",'id_no_spaces': "SA-10",title: "Najrān",fill: "rgba(255,243,218,1)",tooltip: " نجران",popover: "<?php echo $obj->villas_city11; ?>الاراضي :  <?php echo $obj->mapsale_city11; ?>البيع على الخارطه :  <?php echo $obj->landing_city11; ?> الفلل: "},'SA-11': {id: "SA-11",'id_no_spaces': "SA-11",title: "Al Bāḩah",fill: "rgba(255,227,202,1)",tooltip: " الباحه",popover: "<?php echo $obj->villas_city12; ?>الاراضي :  <?php echo $obj->mapsale_city12; ?>البيع على الخارطه :  <?php echo $obj->landing_city12; ?> الفلل: "},'SA-09': {id: "SA-09",'id_no_spaces': "SA-09",title: "Jīzān",fill: "rgba(255,227,202,1)",tooltip: " جازان",popover: "<?php echo $obj->villas_city14; ?>الاراضي :  <?php echo $obj->mapsale_city13; ?>البيع على الخارطه :  <?php echo $obj->landing_city13; ?> الفلل: "}},viewBox: [0,0,730,600],zoom: {on: true,limit: [0,10],delta: 1.2,buttons: {on: true,location: "right"},mousewheel: false},gauge: {on: false,labels: {low: "low",high: "high"},colors: {lowRGB: {r: 85,g: 0,b: 0,a: 1},highRGB: {r: 238,g: 0,b: 0,a: 1},low: "#550000",high: "#ee0000",diffRGB: {r: 153,g: 0,b: 0,a: 0}},min: 0,max: false},source: "../../../app-assets/images/svg/saudi-arabia.svg",title: "Saudi-arabia",responsive: true});
+jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefault: "#000000",background: "#eeeeee",selected: 40,hover: 20,stroke: "#d4d4d4"},regions: {'SA-01': {id: "SA-01",'id_no_spaces': "SA-01",title: "Ar Riyāḑ",fill: "rgba(255,227,202,1)",tooltip: "الرياض",popover: "<?php echo $obj->villas_city1; ?>الاراضي :  <?php echo $obj->mapsale_city1; ?>البيع على الخارطه :  <?php echo $obj->landing_city1; ?> الفلل: "},'SA-02': {id: "SA-02",'id_no_spaces': "SA-02",title: "Makkah",fill: "rgba(255,243,218,1)",tooltip: "مكة المكرمة",popover: "<?php echo $obj->villas_city2; ?>الاراضي :  <?php echo $obj->mapsale_city2; ?>البيع على الخارطه :  <?php echo $obj->landing_city2; ?> الفلل: "},'SA-03': {id: "SA-03",'id_no_spaces': "SA-03",title: "Al Madīnah",fill: "rgba(235,237,195,1)",tooltip: "المدينه المنوره",popover: "<?php echo $obj->villas_city3; ?>الاراضي :  <?php echo $obj->mapsale_city3; ?>البيع على الخارطه :  <?php echo $obj->landing_city3; ?> الفلل: "},'SA-04': {id: "SA-04",'id_no_spaces': "SA-04",title: "Ash Sharqīyah",fill: "rgba(252,212,199,1)",tooltip: "الشرقيه ",popover: "<?php echo $obj->villas_city4; ?>الاراضي :  <?php echo $obj->mapsale_city4; ?>البيع على الخارطه :  <?php echo $obj->landing_city4; ?> الفلل: "},'SA-05': {id: "SA-05",'id_no_spaces': "SA-05",title: "Al Qaşīm",fill: "rgba(252,212,199,1)",tooltip: " القصيم",popover: "<?php echo $obj->villas_city5; ?>الاراضي :  <?php echo $obj->mapsale_city5; ?>البيع على الخارطه :  <?php echo $obj->landing_city5; ?> الفلل: "},'SA-06': {id: "SA-06",'id_no_spaces': "SA-06",title: "Ḩā'il",fill: "rgba(255,243,218,1)",tooltip: " حائل",popover: "<?php echo $obj->villas_city6; ?>الاراضي :  <?php echo $obj->mapsale_city6; ?>البيع على الخارطه :  <?php echo $obj->landing_city6; ?> الفلل: "},'SA-07': {id: "SA-07",'id_no_spaces': "SA-07",title: "Tabūk",fill: "rgba(252,212,199,1)",tooltip: "تبوك ",popover: "<?php echo $obj->villas_city7; ?>الاراضي :  <?php echo $obj->mapsale_city7; ?>البيع على الخارطه :  <?php echo $obj->landing_city7; ?> الفلل: "},'SA-08': {id: "SA-08",'id_no_spaces': "SA-08",title: "Al Ḩudūd ash Shamālīyah",fill: "rgba(235,237,195,1)",tooltip: "الحدود الشماليه",popover: "<?php echo $obj->villas_city8; ?>الاراضي :  <?php echo $obj->mapsale_city8; ?>البيع على الخارطه :  <?php echo $obj->landing_city8; ?> الفلل: "},'SA-12': {id: "SA-12",'id_no_spaces': "SA-12",title: "Al Jawf",fill: "rgba(255,227,202,1)",tooltip: " الجوف",popover: "<?php echo $obj->villas_city9; ?>الاراضي :  <?php echo $obj->mapsale_city9; ?>البيع على الخارطه :  <?php echo $obj->landing_city9; ?> الفلل: "},'SA-14': {id: "SA-14",'id_no_spaces': "SA-14",title: "'Asir",fill: "rgba(235,237,195,1)",tooltip: "عسير ",popover: "<?php echo $obj->villas_city10; ?>الاراضي :  <?php echo $obj->mapsale_city10; ?>البيع على الخارطه :  <?php echo $obj->landing_city10; ?> الفلل: "},'SA-10': {id: "SA-10",'id_no_spaces': "SA-10",title: "Najrān",fill: "rgba(255,243,218,1)",tooltip: " نجران",popover: "<?php echo $obj->villas_city11; ?>الاراضي :  <?php echo $obj->mapsale_city11; ?>البيع على الخارطه :  <?php echo $obj->landing_city11; ?> الفلل: "},'SA-11': {id: "SA-11",'id_no_spaces': "SA-11",title: "Al Bāḩah",fill: "rgba(255,227,202,1)",tooltip: " الباحه",popover: "<?php echo $obj->villas_city12; ?>الاراضي :  <?php echo $obj->mapsale_city12; ?>البيع على الخارطه :  <?php echo $obj->landing_city12; ?> الفلل: "},'SA-09': {id: "SA-09",'id_no_spaces': "SA-09",title: "Jīzān",fill: "rgba(255,227,202,1)",tooltip: " جازان",popover: "<?php echo $obj->villas_city14; ?>الاراضي :  <?php echo $obj->mapsale_city13; ?>البيع على الخارطه :  <?php echo $obj->landing_city13; ?> الفلل: "}},viewBox: [0,0,730,600],zoom: {on: true,limit: [0,10],delta: 1.2,buttons: {on: true,location: "right"},mousewheel: false},gauge: {on: false,labels: {low: "low",high: "high"},colors: {lowRGB: {r: 85,g: 0,b: 0,a: 1},highRGB: {r: 238,g: 0,b: 0,a: 1},low: "#550000",high: "#ee0000",diffRGB: {r: 153,g: 0,b: 0,a: 0}},min: 0,max: false},source: "app-assets/images/svg/saudi-arabia.svg",title: "Saudi-arabia",responsive: true});
 }); 
 </script>
      <!-- Modal -->
@@ -856,7 +856,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                   <li class="col-md-2">
                     <h6 class="dropdown-menu-header text-uppercase mb-1"><i class="fa fa-newspaper-o"></i> News</h6>
                     <div id="mega-menu-carousel-example">
-                      <div><img src="../../../app-assets/images/slider/slider-2.png" alt="First slide" class="rounded img-fluid mb-1"><a href="#" class="news-title mb-0">Poster Frame PSD</a>
+                      <div><img src="app-assets/images/slider/slider-2.png" alt="First slide" class="rounded img-fluid mb-1"><a href="#" class="news-title mb-0">Poster Frame PSD</a>
                         <p class="news-content"><span class="font-small-2">January 26, 2016</span></p>
                       </div>
                     </div>
@@ -1015,7 +1015,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                   </li>
                   <li class="list-group scrollable-container"><a href="javascript:void(0)" class="list-group-item">
                       <div class="media">
-                        <div class="media-left"><span class="avatar avatar-sm avatar-online rounded-circle"><img src="../../../app-assets/images/portrait/small/avatar-s-1.png" alt="avatar"><i></i></span></div>
+                        <div class="media-left"><span class="avatar avatar-sm avatar-online rounded-circle"><img src="app-assets/images/portrait/small/avatar-s-1.png" alt="avatar"><i></i></span></div>
                         <div class="media-body">
                           <h6 class="media-heading">Margaret Govan</h6>
                           <p class="notification-text font-small-3 text-muted">I like your portfolio, let's start the project.</p><small>
@@ -1023,7 +1023,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                         </div>
                       </div></a><a href="javascript:void(0)" class="list-group-item">
                       <div class="media">
-                        <div class="media-left"><span class="avatar avatar-sm avatar-busy rounded-circle"><img src="../../../app-assets/images/portrait/small/avatar-s-2.png" alt="avatar"><i></i></span></div>
+                        <div class="media-left"><span class="avatar avatar-sm avatar-busy rounded-circle"><img src="app-assets/images/portrait/small/avatar-s-2.png" alt="avatar"><i></i></span></div>
                         <div class="media-body">
                           <h6 class="media-heading">Bret Lezama</h6>
                           <p class="notification-text font-small-3 text-muted">I have seen your work, there is</p><small>
@@ -1031,7 +1031,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                         </div>
                       </div></a><a href="javascript:void(0)" class="list-group-item">
                       <div class="media">
-                        <div class="media-left"><span class="avatar avatar-sm avatar-online rounded-circle"><img src="../../../app-assets/images/portrait/small/avatar-s-3.png" alt="avatar"><i></i></span></div>
+                        <div class="media-left"><span class="avatar avatar-sm avatar-online rounded-circle"><img src="app-assets/images/portrait/small/avatar-s-3.png" alt="avatar"><i></i></span></div>
                         <div class="media-body">
                           <h6 class="media-heading">Carie Berra</h6>
                           <p class="notification-text font-small-3 text-muted">Can we have call in this week ?</p><small>
@@ -1039,7 +1039,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                         </div>
                       </div></a><a href="javascript:void(0)" class="list-group-item">
                       <div class="media">
-                        <div class="media-left"><span class="avatar avatar-sm avatar-away rounded-circle"><img src="../../../app-assets/images/portrait/small/avatar-s-6.png" alt="avatar"><i></i></span></div>
+                        <div class="media-left"><span class="avatar avatar-sm avatar-away rounded-circle"><img src="app-assets/images/portrait/small/avatar-s-6.png" alt="avatar"><i></i></span></div>
                         <div class="media-body">
                           <h6 class="media-heading">Eric Alsobrook</h6>
                           <p class="notification-text font-small-3 text-muted">We have project party this saturday night.</p><small>
@@ -1050,7 +1050,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                 </ul>
               </li>
 -->
-              <li class="dropdown dropdown-user nav-item"><a href="#" data-toggle="dropdown" class="dropdown-toggle nav-link dropdown-user-link"><span class="avatar avatar-online"><img src="../../../app-assets/images/portrait/small/avatar-s-1.png" alt="avatar"><i></i></span><span class="user-name">مركز إتمام</span></a>
+              <li class="dropdown dropdown-user nav-item"><a href="#" data-toggle="dropdown" class="dropdown-toggle nav-link dropdown-user-link"><span class="avatar avatar-online"><img src="app-assets/images/portrait/small/avatar-s-1.png" alt="avatar"><i></i></span><span class="user-name">مركز إتمام</span></a>
                 <div class="dropdown-menu dropdown-menu-right"><a href="#" class="dropdown-item"><i class="ft-user"></i> Edit Profile</a><a href="#" class="dropdown-item"><i class="ft-mail"></i> My Inbox</a><a href="#" class="dropdown-item"><i class="ft-check-square"></i> Task</a><a href="#" class="dropdown-item"><i class="ft-comment-square"></i> Chats</a>
                   <div class="dropdown-divider"></div><a href="#" class="dropdown-item"><i class="ft-power"></i> Logout</a>
                 </div>
@@ -1260,44 +1260,44 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
           </li>
           <li class=" nav-item"><a href="#"><i class="ft-zap"></i><span data-i18n="" class="menu-title">Starter kit</span><span class="tag tag tag-danger tag-pill float-xs-right mr-2">New</span></a>
             <ul class="menu-content">
-              <li><a href="../../../starter-kit/rtl/vertical-menu-template/layout-1-column.html" class="menu-item">1 column</a>
+              <li><a href="starter-kit/rtl/vertical-menu-template/layout-1-column.html" class="menu-item">1 column</a>
               </li>
-              <li><a href="../../../starter-kit/rtl/vertical-menu-template/layout-2-columns.html" class="menu-item">2 columns</a>
+              <li><a href="starter-kit/rtl/vertical-menu-template/layout-2-columns.html" class="menu-item">2 columns</a>
               </li>
               <li><a href="#" class="menu-item">Content Det. Sidebar</a>
                 <ul class="menu-content">
-                  <li><a href="../../../starter-kit/rtl/vertical-menu-template/layout-content-detached-left-sidebar.html" class="menu-item">Detached left sidebar</a>
+                  <li><a href="starter-kit/rtl/vertical-menu-template/layout-content-detached-left-sidebar.html" class="menu-item">Detached left sidebar</a>
                   </li>
-                  <li><a href="../../../starter-kit/rtl/vertical-menu-template/layout-content-detached-left-sticky-sidebar.html" class="menu-item">Detached sticky left sidebar</a>
+                  <li><a href="starter-kit/rtl/vertical-menu-template/layout-content-detached-left-sticky-sidebar.html" class="menu-item">Detached sticky left sidebar</a>
                   </li>
-                  <li><a href="../../../starter-kit/rtl/vertical-menu-template/layout-content-detached-right-sidebar.html" class="menu-item">Detached right sidebar</a>
+                  <li><a href="starter-kit/rtl/vertical-menu-template/layout-content-detached-right-sidebar.html" class="menu-item">Detached right sidebar</a>
                   </li>
-                  <li><a href="../../../starter-kit/rtl/vertical-menu-template/layout-content-detached-right-sticky-sidebar.html" class="menu-item">Detached sticky right sidebar</a>
+                  <li><a href="starter-kit/rtl/vertical-menu-template/layout-content-detached-right-sticky-sidebar.html" class="menu-item">Detached sticky right sidebar</a>
                   </li>
                 </ul>
               </li>
               <li class="navigation-divider"></li>
-              <li><a href="../../../starter-kit/rtl/vertical-menu-template/layout-fixed-navbar.html" class="menu-item">Fixed navbar</a>
+              <li><a href="starter-kit/rtl/vertical-menu-template/layout-fixed-navbar.html" class="menu-item">Fixed navbar</a>
               </li>
-              <li><a href="../../../starter-kit/rtl/vertical-menu-template/layout-fixed-navigation.html" class="menu-item">Fixed navigation</a>
+              <li><a href="starter-kit/rtl/vertical-menu-template/layout-fixed-navigation.html" class="menu-item">Fixed navigation</a>
               </li>
-              <li><a href="../../../starter-kit/rtl/vertical-menu-template/layout-fixed-navbar-navigation.html" class="menu-item">Fixed navbar &amp; navigation</a>
+              <li><a href="starter-kit/rtl/vertical-menu-template/layout-fixed-navbar-navigation.html" class="menu-item">Fixed navbar &amp; navigation</a>
               </li>
-              <li><a href="../../../starter-kit/rtl/vertical-menu-template/layout-fixed-navbar-footer.html" class="menu-item">Fixed navbar &amp; footer</a>
-              </li>
-              <li class="navigation-divider"></li>
-              <li><a href="../../../starter-kit/rtl/vertical-menu-template/layout-fixed.html" class="menu-item">Fixed layout</a>
-              </li>
-              <li><a href="../../../starter-kit/rtl/vertical-menu-template/layout-boxed.html" class="menu-item">Boxed layout</a>
-              </li>
-              <li><a href="../../../starter-kit/rtl/vertical-menu-template/layout-static.html" class="menu-item">Static layout</a>
+              <li><a href="starter-kit/rtl/vertical-menu-template/layout-fixed-navbar-footer.html" class="menu-item">Fixed navbar &amp; footer</a>
               </li>
               <li class="navigation-divider"></li>
-              <li><a href="../../../starter-kit/rtl/vertical-menu-template/layout-light.html" class="menu-item">Light layout</a>
+              <li><a href="starter-kit/rtl/vertical-menu-template/layout-fixed.html" class="menu-item">Fixed layout</a>
               </li>
-              <li><a href="../../../starter-kit/rtl/vertical-menu-template/layout-dark.html" class="menu-item">Dark layout</a>
+              <li><a href="starter-kit/rtl/vertical-menu-template/layout-boxed.html" class="menu-item">Boxed layout</a>
               </li>
-              <li><a href="../../../starter-kit/rtl/vertical-menu-template/layout-semi-dark.html" class="menu-item">Semi dark layout</a>
+              <li><a href="starter-kit/rtl/vertical-menu-template/layout-static.html" class="menu-item">Static layout</a>
+              </li>
+              <li class="navigation-divider"></li>
+              <li><a href="starter-kit/rtl/vertical-menu-template/layout-light.html" class="menu-item">Light layout</a>
+              </li>
+              <li><a href="starter-kit/rtl/vertical-menu-template/layout-dark.html" class="menu-item">Dark layout</a>
+              </li>
+              <li><a href="starter-kit/rtl/vertical-menu-template/layout-semi-dark.html" class="menu-item">Semi dark layout</a>
               </li>
             </ul>
           </li>
@@ -2103,7 +2103,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                         <div class="col-xl-3 col-lg-6 col-md-12 border-right-blue-grey border-right-lighten-5 clearfix" onclick="set_data(1);" data-toggle="modal" data-target="#myModal1">
                             <div class="media">
                                 <div class="media-left">
-                                    <img class="media-object img-xl" src="../../../app-assets/images/logos/housing.jpg" alt="Generic placeholder image">
+                                    <img class="media-object img-xl" src="app-assets/images/logos/housing.jpg" alt="Generic placeholder image">
                                 </div>
                                 <div class="media-body">
                                     <p>وزارة الإسكان </p>
@@ -2117,7 +2117,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                            
                             <div class="media">
                                 <div class="media-left">
-                                    <img class="media-object img-xl" src="../../../app-assets/images/logos/etmam.jpg" alt="Generic placeholder image">
+                                    <img class="media-object img-xl" src="app-assets/images/logos/etmam.jpg" alt="Generic placeholder image">
                                 </div>
                                 <div class="media-body">
                                     <p>إتمام </p>
@@ -2129,7 +2129,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                         <div class="col-xl-3 col-lg-6 col-md-12 border-right-blue-grey border-right-lighten-5 clearfix" onclick="set_data(1);" data-toggle="modal" data-target="#myModal3">
                             <div class="media">
                                 <div class="media-left">
-                                    <img class="media-object img-xl" src="../../../app-assets/images/logos/wafi.jpg" alt="Generic placeholder image">
+                                    <img class="media-object img-xl" src="app-assets/images/logos/wafi.jpg" alt="Generic placeholder image">
                                 </div>
                                 <div class="media-body">
                                     <p>وافي </p>
@@ -2141,7 +2141,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                         <div class="col-xl-3 col-lg-6 col-md-12 border-right-blue-grey border-right-lighten-5 clearfix" onclick="set_data(1);" data-toggle="modal" data-target="#myModal4">
                             <div class="media">
                                 <div class="media-left">
-                                    <img class="media-object img-xl" src="../../../app-assets/images/logos/idle_lands.jpg" alt="Generic placeholder image">
+                                    <img class="media-object img-xl" src="app-assets/images/logos/idle_lands.jpg" alt="Generic placeholder image">
                                 </div>
                                 <div class="media-body">
                                     <p>الأراضي البيضاء </p>
@@ -2277,7 +2277,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                         <div class="col-xl-3 col-lg-6 col-md-12 border-right-blue-grey border-right-lighten-5 clearfix" onclick="set_data(1);" data-toggle="modal" data-target="#myModal5">
                             <div class="media">
                                 <div class="media-left">
-                                    <img class="media-object img-xl" src="../../../app-assets/images/logos/moj.jpg" alt="Generic placeholder image">
+                                    <img class="media-object img-xl" src="app-assets/images/logos/moj.jpg" alt="Generic placeholder image">
                                 </div>
                                 <div class="media-body">
                                     <p>وزارة العدل </p>
@@ -2289,7 +2289,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                        <div class="col-xl-3 col-lg-6 col-md-12 border-right-blue-grey border-right-lighten-5 clearfix" onclick="set_data(1);" data-toggle="modal" data-target="#myModal6">
                             <div class="media">
                                 <div class="media-left">
-                                    <img class="media-object img-xl" src="../../../app-assets/images/logos/momra.jpg" alt="Generic placeholder image">
+                                    <img class="media-object img-xl" src="app-assets/images/logos/momra.jpg" alt="Generic placeholder image">
                                 </div>
                                 <div class="media-body">
                                     <p>وزارة الشؤون البلدية والقروية </p>
@@ -2301,7 +2301,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                         <div class="col-xl-3 col-lg-6 col-md-12 border-right-blue-grey border-right-lighten-5 clearfix" onclick="set_data(1);" data-toggle="modal" data-target="#myModal7">
                             <div class="media">
                                 <div class="media-left">
-                                    <img class="media-object img-xl" src="../../../app-assets/images/logos/mof.jpg" alt="Generic placeholder image">
+                                    <img class="media-object img-xl" src="app-assets/images/logos/mof.jpg" alt="Generic placeholder image">
                                 </div>
                                 <div class="media-body">
                                     <p>مصلحة أملاك الدولة </p>
@@ -2313,7 +2313,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                         <div class="col-xl-3 col-lg-6 col-md-12 border-right-blue-grey border-right-lighten-5 clearfix" onclick="set_data(1);" data-toggle="modal" data-target="#myModal8">
                             <div class="media">
                                 <div class="media-left">
-                                    <img class="media-object img-xl" src="../../../app-assets/images/logos/saudi-logo.jpg" alt="Generic placeholder image">
+                                    <img class="media-object img-xl" src="app-assets/images/logos/saudi-logo.jpg" alt="Generic placeholder image">
                                 </div>
                                 <div class="media-body">
                                     <p>بقية الجهات </p>
@@ -2869,7 +2869,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                 <div id="friends-activity" class="list-group height-400 position-relative">
                     <a href="#" class="list-group-item list-group-item-action media no-border">
                         <div class="media-left">
-                            <img class="media-object avatar avatar-sm rounded-circle" src="../../../app-assets/images/portrait/small/avatar-s-7.png" alt="Generic placeholder image">
+                            <img class="media-object avatar avatar-sm rounded-circle" src="app-assets/images/portrait/small/avatar-s-7.png" alt="Generic placeholder image">
                         </div>
                         <div class="media-body">
                             <h5 class="list-group-item-heading">Kristopher Candy <span class="font-medium-4 float-xs-right">1,0215</span></h5>
@@ -2878,7 +2878,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                     </a>
                     <a href="#" class="list-group-item list-group-item-action media no-border">
                         <div class="media-left">
-                            <img class="media-object avatar avatar-sm rounded-circle" src="../../../app-assets/images/portrait/small/avatar-s-8.png" alt="Generic placeholder image">
+                            <img class="media-object avatar avatar-sm rounded-circle" src="app-assets/images/portrait/small/avatar-s-8.png" alt="Generic placeholder image">
                         </div>
                         <div class="media-body">
                             <h5 class="list-group-item-heading">Lawrence Fowler <span class="font-medium-4 float-xs-right">2,0215</span></h5>
@@ -2887,7 +2887,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                     </a>
                     <a href="#" class="list-group-item list-group-item-action media no-border">
                         <div class="media-left">
-                            <img class="media-object avatar avatar-sm rounded-circle" src="../../../app-assets/images/portrait/small/avatar-s-9.png" alt="Generic placeholder image">
+                            <img class="media-object avatar avatar-sm rounded-circle" src="app-assets/images/portrait/small/avatar-s-9.png" alt="Generic placeholder image">
                         </div>
                         <div class="media-body">
                             <h5 class="list-group-item-heading">Linda Olson <span class="font-medium-4 float-xs-right">1,112</span></h5>
@@ -2896,7 +2896,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                     </a>
                     <a href="#" class="list-group-item list-group-item-action media no-border">
                         <div class="media-left">
-                            <img class="media-object avatar avatar-sm rounded-circle" src="../../../app-assets/images/portrait/small/avatar-s-10.png" alt="Generic placeholder image">
+                            <img class="media-object avatar avatar-sm rounded-circle" src="app-assets/images/portrait/small/avatar-s-10.png" alt="Generic placeholder image">
                         </div>
                         <div class="media-body">
                             <h5 class="list-group-item-heading">Roy Clark <span class="font-medium-4 float-xs-right">2,815</span></h5>
@@ -2905,7 +2905,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                     </a>
                     <a href="#" class="list-group-item list-group-item-action media no-border">
                         <div class="media-left">
-                            <img class="media-object avatar avatar-sm rounded-circle" src="../../../app-assets/images/portrait/small/avatar-s-11.png" alt="Generic placeholder image">
+                            <img class="media-object avatar avatar-sm rounded-circle" src="app-assets/images/portrait/small/avatar-s-11.png" alt="Generic placeholder image">
                         </div>
                         <div class="media-body">
                             <h5 class="list-group-item-heading">Tammy Gonzales <span class="font-medium-4 float-xs-right">3,226</span></h5>
@@ -2914,7 +2914,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                     </a>
                     <a href="#" class="list-group-item list-group-item-action media no-border">
                         <div class="media-left">
-                            <img class="media-object avatar avatar-sm rounded-circle" src="../../../app-assets/images/portrait/small/avatar-s-12.png" alt="Generic placeholder image">
+                            <img class="media-object avatar avatar-sm rounded-circle" src="app-assets/images/portrait/small/avatar-s-12.png" alt="Generic placeholder image">
                         </div>
                         <div class="media-body">
                             <h5 class="list-group-item-heading">Justin Hawkins <span class="font-medium-4 float-xs-right">4,564</span></h5>
@@ -2923,7 +2923,7 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                     </a>
                     <a href="#" class="list-group-item list-group-item-action media no-border">
                         <div class="media-left">
-                            <img class="media-object avatar avatar-sm rounded-circle" src="../../../app-assets/images/portrait/small/avatar-s-10.png" alt="Generic placeholder image">
+                            <img class="media-object avatar avatar-sm rounded-circle" src="app-assets/images/portrait/small/avatar-s-10.png" alt="Generic placeholder image">
                         </div>
                         <div class="media-body">
                             <h5 class="list-group-item-heading">Roy Clark <span class="font-medium-4 float-xs-right">2,815</span></h5>
@@ -3068,13 +3068,13 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
                             </ol>
                             <div class="carousel-inner" role="listbox">
                                 <div class="carousel-item active">
-                                    <img src="../../../app-assets/images/pages/fitness-slide-1.jpg" alt="First slide">
+                                    <img src="app-assets/images/pages/fitness-slide-1.jpg" alt="First slide">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="../../../app-assets/images/pages/fitness-slide-2.jpg" alt="Second slide">
+                                    <img src="app-assets/images/pages/fitness-slide-2.jpg" alt="Second slide">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="../../../app-assets/images/pages/fitness-slide-3.jpg" alt="Third slide">
+                                    <img src="app-assets/images/pages/fitness-slide-3.jpg" alt="Third slide">
                                 </div>
                             </div>
                             <a class="left carousel-control" href="#carousel-example" role="button" data-slide="prev">
@@ -3106,9 +3106,9 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
             <div class="col-xl-6 col-lg-6 col-md-12">
                 <div class="card profile-card-with-cover">
                     <div class="card-body">
-                        <div class="card-img-top img-fluid bg-cover height-200" style="background: url('../../../app-assets/images/pages/fitness-profile.jpg') 0 40%;"></div>
+                        <div class="card-img-top img-fluid bg-cover height-200" style="background: url('app-assets/images/pages/fitness-profile.jpg') 0 40%;"></div>
                         <div class="card-profile-image">
-                            <img src="../../../app-assets/images/portrait/small/avatar-s-8.png" class="rounded-circle img-border box-shadow-1" alt="Card image">
+                            <img src="app-assets/images/portrait/small/avatar-s-8.png" class="rounded-circle img-border box-shadow-1" alt="Card image">
                         </div>
                         <div class="profile-card-with-cover-content text-xs-center">
                             <div class="my-2">
@@ -3185,21 +3185,21 @@ jQuery("#mapsvgg").mapSvg({width: 730.13947,height: 600.4032,colors: {baseDefaul
 
 
     <!-- BEGIN VENDOR JS-->
-    <script src="../../../app-assets/vendors/js/vendors.min.js" type="text/javascript"></script>
+    <script src="app-assets/vendors/js/vendors.min.js" type="text/javascript"></script>
     <!-- BEGIN VENDOR JS-->
     <!-- BEGIN PAGE VENDOR JS-->
     <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyBDkKetQwosod2SZ7ZGCpxuJdxY3kxo5Po" type="text/javascript"></script>
-    <script src="../../../app-assets/vendors/js/charts/gmaps.min.js" type="text/javascript"></script>
-    <script src="../../../app-assets/vendors/js/forms/icheck/icheck.min.js" type="text/javascript"></script>
-    <script src="../../../app-assets/vendors/js/extensions/jquery.knob.min.js" type="text/javascript"></script>
-    <script src="../../../app-assets/vendors/js/charts/raphael-min.js" type="text/javascript"></script>
-    <script src="../../../app-assets/vendors/js/charts/morris.min.js" type="text/javascript"></script>
-    <script src="../../../app-assets/vendors/js/charts/jquery.sparkline.min.js" type="text/javascript"></script>
-    <script src="../../../app-assets/vendors/js/extensions/unslider-min.js" type="text/javascript"></script>
-    <script src="../../../app-assets/vendors/js/charts/echarts/echarts.js" type="text/javascript"></script>
-    <script src="../../../app-assets/js/scripts/charts/echarts/bar-column/basic-column.js" type="text/javascript"></script>
-    <script src="../../../app-assets/vendors/js/charts/jvector/jquery-jvectormap-saudi-lcc.js" type="text/javascript"></script>
-<!--    <script src="../../../app-assets/js/scripts/charts/echarts/pie-doughnut/timeline.js" type="text/javascript"></script>-->
+    <script src="app-assets/vendors/js/charts/gmaps.min.js" type="text/javascript"></script>
+    <script src="app-assets/vendors/js/forms/icheck/icheck.min.js" type="text/javascript"></script>
+    <script src="app-assets/vendors/js/extensions/jquery.knob.min.js" type="text/javascript"></script>
+    <script src="app-assets/vendors/js/charts/raphael-min.js" type="text/javascript"></script>
+    <script src="app-assets/vendors/js/charts/morris.min.js" type="text/javascript"></script>
+    <script src="app-assets/vendors/js/charts/jquery.sparkline.min.js" type="text/javascript"></script>
+    <script src="app-assets/vendors/js/extensions/unslider-min.js" type="text/javascript"></script>
+    <script src="app-assets/vendors/js/charts/echarts/echarts.js" type="text/javascript"></script>
+    <script src="app-assets/js/scripts/charts/echarts/bar-column/basic-column.js" type="text/javascript"></script>
+    <script src="app-assets/vendors/js/charts/jvector/jquery-jvectormap-saudi-lcc.js" type="text/javascript"></script>
+<!--    <script src="app-assets/js/scripts/charts/echarts/pie-doughnut/timeline.js" type="text/javascript"></script>-->
 
 
 
@@ -3225,7 +3225,7 @@ $(window).on("load", function(){
 
     require.config({
         paths: {
-            echarts: '../../../app-assets/vendors/js/charts/echarts'
+            echarts: 'app-assets/vendors/js/charts/echarts'
         }
     });
 
@@ -3395,7 +3395,7 @@ $(window).on("load", function(){
 
     require.config({
         paths: {
-            echarts: '../../../app-assets/vendors/js/charts/echarts'
+            echarts: 'app-assets/vendors/js/charts/echarts'
         }
     });
 
@@ -3709,21 +3709,21 @@ $(window).on("load", function(){
         
 </script>
     
-    <link href="../../../assets/css/mapsvg.css" rel="stylesheet">
+    <link href="assets/css/mapsvg.css" rel="stylesheet">
 
 
 
 
     <!-- END PAGE VENDOR JS-->
     <!-- BEGIN STACK JS-->
-    <script src="../../../app-assets/js/core/app-menu.js" type="text/javascript"></script>
-    <script src="../../../app-assets/js/core/app.js" type="text/javascript"></script>
+    <script src="app-assets/js/core/app-menu.js" type="text/javascript"></script>
+    <script src="app-assets/js/core/app.js" type="text/javascript"></script>
     <!-- END STACK JS-->
     <!-- BEGIN PAGE LEVEL JS-->
-    <script src="../../../app-assets/js/scripts/pages/dashboard-fitness.js" type="text/javascript"></script>
+    <script src="app-assets/js/scripts/pages/dashboard-fitness.js" type="text/javascript"></script>
     <!-- END PAGE LEVEL JS-->
   </body>
-  <script src="../../../assets/js/jquery.js"></script>
-<script src="../../../assets/js/jquery.mousewheel.min.js"></script>
-<script src="../../../assets/js/mapsvg.min.js"></script>
+  <script src="assets/js/jquery.js"></script>
+<script src="assets/js/jquery.mousewheel.min.js"></script>
+<script src="assets/js/mapsvg.min.js"></script>
 </html>
